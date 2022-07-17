@@ -1,0 +1,8 @@
+{
+    "products": [
+        { "id": 1, "name": "Burger", "price": 30, "count": 0, "isInCart": false },
+        { "id": 2, "name": "Fries",  "price": 20, "count": 4, "isInCart": true },
+        { "id": 3, "name": "Cola",   "price": 10, "count": 2, "isInCart": false },
+        { "id": 4, "name": "chicks", "price": 5,  "count": 3, "isInCart": true }
+    ]
+}
